@@ -8,7 +8,7 @@ Lue käyttäjän opas (tulossa pian!)
 
 Yleiskäyttäjän konsolin asennus:
 
-Lataa java 9 ja lisää se PATH osioon
+Lataa java SDK 9.0.1 tai vastaava ja lisää se PATH osioon
 https://www.java.com/en/download/help/path.html
 
 Lisää ykok/uuskieli kohteeseen c: (C-asema)
