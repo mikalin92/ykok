@@ -17,8 +17,9 @@ Lisää pikakuvake työpöydälle
 
 
 Testaus:
-
+Yleiskäyttäjän konsoli, versio x.xx
 YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop.ykok
+YK-OK>suorita
 
 
 Vim:
