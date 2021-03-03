@@ -1,0 +1,17 @@
+laita-muistipaikkaan approksimaatio liukuluku 10
+laita-muistipaikkaan uusi_approksimaatio liukuluku 0
+laita-muistipaikkaan 2 liukuluku 2
+
+aloita-alirutiini
+lis‰‰ liukulukua uusi_approksimaatio liukuluvulla 2
+jaa liukulukua uusi_approksimaatio liukuluvulla approksimaatio
+lis‰‰ liukulukua uusi_approksimaatio liukuluvulla approksimaatio
+jaa liukulukua uusi_approksimaatio liukuluvulla 2
+tulosta liukuluku uusi_approksimaatio
+laita-muistipaikkaan approksimaatio liukuluku 0
+lis‰‰ liukulukua approksimaatio liukuluvulla uusi_approksimaatio
+laita-muistipaikkaan uusi_approksimaatio liukuluku 0
+p‰‰t‰-alirutiini 
+
+tulosta-kaikki
+
