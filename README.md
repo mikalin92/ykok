@@ -11,6 +11,18 @@ Yleiskäyttäjän konsolin asennus:
 Lataa Java SDK 9.0.1 tai vastaava ja lisää se PATH osioon
 https://www.java.com/en/download/help/path.html
 
+Java jdk 9.0.4 käy myös:
+https://jdk.java.net/archive/
+
+Pura kansio 7-zipillä kahdesti ja siirrä sen sisältä kansioon c:/java/
+
+Windowsn 10:ssä voit asentaa pathin kirjoittamalla hakuun Muokkaa järjestelmän ympäristömuuttujia.
+Kirjota muuttujaan Path uusi muuttuja
+c:/java/jdk-9.0.4/bin/
+
+ks. kuva ympmuut.png
+
+
 Lisää ykok/uuskieli kohteeseen c: (C-asema)
 
 Lisää pikakuvake työpöydälle
