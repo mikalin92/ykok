@@ -16,11 +16,18 @@ Lisää ykok/uuskieli kohteeseen c: (C-asema)
 Lisää pikakuvake työpöydälle
 YK-OK konsoli.lnk
 tai tee itse uusi pikakuvake:
+
+
 C:\Windows\System32\cmd.exe /k echo Yleiskäyttäjän konsoli, versio 1.00 && cd c:/ykok &&  javac -encoding utf-8 c:/ykok/uuskieli/*.java && java uuskieli/Main
 
 Testaus:
+
 Yleiskäyttäjän konsoli, versio x.xx
+
+
 YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop.ykok
+
+
 YK-OK>suorita
 
 
