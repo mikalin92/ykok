@@ -39,6 +39,8 @@ Vaihda asetuksista suomenkieliseksi. Lisää Vim kansion sisältö koneesi Vim k
 INSERT-näppäin on Vim editorin kanssa kätevä, tällöin päästään SYÖTTÖ-moodiin.
 
 
+Alfa-kokeilu-asteella. Lisää toiminnallisuutta tulossa pian, kuten graafinen ohjelmointi! lue LICENCE
+
 
 
 
