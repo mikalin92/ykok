@@ -63,8 +63,13 @@ pikakuvakkeella
 
 ### Yleiskäyttäjän konsolin testaus
 
-Sijoita ohjelma fiboloop2.ykok kohteeseen c:/temp/ jos käytät Windowsia 
-fiboloop2_utf-8.ykok kohteeseen /tmp/ jos käytät Linuxia (ansi/utf-8 eivät ole skandinaavikirjainten takia yhteensopivia, tähän yritetään keksiä pysyvä ratkaisu kuten täysin erillinen konsoli).
+Sijoita ohjelma fiboloop2.ykok kohteeseen c:/temp/ jos käytät Windowsia tai
+
+fiboloop2_utf-8.ykok kohteeseen /tmp/ jos käytät Linuxia 
+
+(ansi/utf-8 eivät ole skandinaavikirjainten takia yhteensopivia, 
+
+tähän yritetään keksiä pysyvä ratkaisu kuten täysin erillinen konsoli).
 
 Avaa Yleiskäyttäjän konsoli työpöydältä. Suorita seuraavat toimenpiteet:
 
