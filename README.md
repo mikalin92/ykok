@@ -36,13 +36,35 @@ C:\Windows\System32\cmd.exe /k echo Yleiskäyttäjän konsoli, versio 1.00 && cd
 
 #### Linux
 
+Linuxissa yleensä on tarpeeksi suuri JDK jos se on päivitetty.
+Testaa päivitysversio terminaalin komennolla
+java -version
+
+Jos versio on alempi kuin 9.0.1, voit asentaa/päivittää sen komennolla
+sudo apt install default-jdk
+
+Sijoita kansio /ykok/ esimerkiksi järjestelmän alimpaan hakemistoon. Jos tätä ei järjestelmänvalvojasi suosittele, käytä muuta hakemistoa.
+
+Päivitä YK-OK komennolla
+sudo javac -encoding utf-8 /ykok/uuskieli/*.java
+
+Avaa YK-OK komennolla
+cd /ykok/ && java uuskieli/Main
+
+tai vaihtoehtoisesti
+
+YK-OK terminaali.desktop
+pikakuvakkeella
+
+
 #### MacOS
 
 
 
 ### Yleiskäyttäjän konsolin testaus
 
-Sijoita ohjelma fiboloop2.ykok kohteeseen c:/temp/
+Sijoita ohjelma fiboloop2.ykok kohteeseen c:/temp/ jos käytät Windowsia 
+fiboloop2_utf-8.ykok kohteeseen /tmp/ jos käytät Linuxia (ansi/utf-8 eivät ole skandinaavikirjainten takia yhteensopivia, tähän yritetään keksiä pysyvä ratkaisu kuten täysin erillinen konsoli).
 
 Avaa Yleiskäyttäjän konsoli työpöydältä. Suorita seuraavat toimenpiteet:
 
@@ -53,6 +75,17 @@ YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop2.ykok
 
 
 YK-OK>suorita
+
+
+Yleiskäyttäjän terminaali, versio x.xx
+
+
+YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop2_utf-8.ykok
+
+
+YK-OK>suorita
+
+
 
 ## Tuetut editorit
 
