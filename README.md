@@ -17,7 +17,7 @@ https://jdk.java.net/archive/
 Pura kansio 7-zipillä kahdesti ja siirrä sen sisältö kansioon c:/java/
 
 Windows 10:ssä voit asentaa pathin kirjoittamalla hakuun Muokkaa järjestelmän ympäristömuuttujia.
-Kirjota muuttujaan Path uusi muuttuja
+Kirjoita muuttujaan Path uusi muuttuja
 c:/java/jdk-9.0.4/bin/
 
 ks. kuva ympmuut.png
@@ -36,9 +36,7 @@ Testaus:
 
 Yleiskäyttäjän konsoli, versio x.xx
 
-
 YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop.ykok
-
 
 YK-OK>suorita
 
