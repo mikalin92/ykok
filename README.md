@@ -14,6 +14,8 @@ https://www.java.com/en/download/help/path.html
 Java JDK 9.0.4 käy myös:
 https://jdk.java.net/archive/
 
+#### Windows
+
 Pura kansio 7-zipillä kahdesti ja siirrä sen sisältö kansioon c:/java/
 
 Windows 10:ssä voit asentaa pathin kirjoittamalla hakuun Muokkaa järjestelmän ympäristömuuttujia.
@@ -31,6 +33,12 @@ tai tee itse uusi pikakuvake:
 
 
 C:\Windows\System32\cmd.exe /k echo Yleiskäyttäjän konsoli, versio 1.00 && cd c:/ykok &&  javac -encoding utf-8 c:/ykok/uuskieli/*.java && java uuskieli/Main
+
+#### Linux
+
+#### MacOS
+
+
 
 ### Yleiskäyttäjän konsolin testaus
 
