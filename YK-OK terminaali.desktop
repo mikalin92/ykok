@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=YK-OK terminaali
+Comment=
+Exec=java uuskieli/Main
+Icon=
+Path=/ykok/
+Terminal=true
+StartupNotify=false

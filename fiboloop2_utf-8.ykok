@@ -1,0 +1,28 @@
+laita-muistipaikkaan edellisempi luku 0
+laita-muistipaikkaan edellinen luku 1
+laita-muistipaikkaan nykyinen luku 0
+laita-muistipaikkaan 1 luku 1
+laita-muistipaikkaan juoksija luku 1
+laita-muistipaikkaan huomautus teksti _s_Fibonaccin_luku_on_
+
+
+
+aloita-alirutiini
+laita-muistipaikkaan alustus teksti _
+lisää tekstiä alustus luvulla juoksija
+lisää tekstiä alustus tekstillä huomautus
+lisää lukua nykyinen luvulla edellisempi
+lisää lukua nykyinen luvulla edellinen
+lisää tekstiä alustus luvulla nykyinen
+tulosta teksti alustus
+laita-muistipaikkaan edellisempi luku 0
+lisää lukua edellisempi luvulla edellinen
+laita-muistipaikkaan edellinen luku 0
+lisää lukua edellinen luvulla nykyinen
+laita-muistipaikkaan nykyinen luku 0
+lisää lukua juoksija luvulla 1
+päätä-alirutiini
+
+
+
+
