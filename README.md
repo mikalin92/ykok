@@ -6,7 +6,7 @@ Uusi kieli opetuskäyttöön 13-17 vuotiaille, ellei vanhemmillekin ohjemoinnist
 
 Lue käyttäjän opas (tulossa pian!)
 ## Yleiskäyttäjän konsoli
-Yleiskäyttäjän konsolin asennus:
+### Yleiskäyttäjän konsolin asennus
 
 Lataa Java SDK 9.0.1 tai vastaava ja lisää se PATH osioon
 https://www.java.com/en/download/help/path.html
@@ -32,7 +32,11 @@ tai tee itse uusi pikakuvake:
 
 C:\Windows\System32\cmd.exe /k echo Yleiskäyttäjän konsoli, versio 1.00 && cd c:/ykok &&  javac -encoding utf-8 c:/ykok/uuskieli/*.java && java uuskieli/Main
 
-Testaus:
+### Yleiskäyttäjän konsolin testaus
+
+Sijoita ohjelma fiboloop.ykok kohteeseen c:/temp/
+
+Avaa Yleiskäyttäjän konsoli työpöydältä. Suorita seuraavat toimenpiteet:
 
 Yleiskäyttäjän konsoli, versio x.xx
 
