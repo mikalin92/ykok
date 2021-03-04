@@ -5,7 +5,7 @@ Yleiskäyttäjän Ohjelmointikieli
 Uusi kieli opetuskäyttöön 13-17 vuotiaille, ellei vanhemmillekin ohjemoinnista kiinnostuneille.
 
 Lue käyttäjän opas (tulossa pian!)
-
+#Yleiskäyttäjän konsoli
 Yleiskäyttäjän konsolin asennus:
 
 Lataa Java SDK 9.0.1 tai vastaava ja lisää se PATH osioon
@@ -42,8 +42,9 @@ YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop.ykok
 
 YK-OK>suorita
 
+#Tuetut editorit
 
-Vim:
+##Vim:
 
 Asenna VIM https://www.vim.org/
 
