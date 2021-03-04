@@ -59,7 +59,9 @@ pikakuvakkeella
 
 #### MacOS
 
+#### iOS
 
+#### Android
 
 ### Yleiskäyttäjän konsolin testaus
 
