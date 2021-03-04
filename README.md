@@ -51,7 +51,7 @@ Asenna VIM https://www.vim.org/
 Vaihda asetuksista suomenkieliseksi. Lisää Vim kansion sisältö koneesi Vim kansioon. Tämä lisää yleiskäyttäjän ohjelmointikielen Vim-tekstieditoriin ja samalla määrittää sen Windowsmaiseksi.
 INSERT-näppäin on Vim editorin kanssa kätevä, tällöin päästään SYÖTTÖ-moodiin.
 
-
+## Lopuksi
 Alfa-kokeilu-asteella. Lisää toiminnallisuutta tulossa pian, kuten graafinen ohjelmointi! lue LICENCE
 
 
