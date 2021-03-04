@@ -34,14 +34,14 @@ C:\Windows\System32\cmd.exe /k echo Yleiskäyttäjän konsoli, versio 1.00 && cd
 
 ### Yleiskäyttäjän konsolin testaus
 
-Sijoita ohjelma fiboloop.ykok kohteeseen c:/temp/
+Sijoita ohjelma fiboloop2.ykok kohteeseen c:/temp/
 
 Avaa Yleiskäyttäjän konsoli työpöydältä. Suorita seuraavat toimenpiteet:
 
 Yleiskäyttäjän konsoli, versio x.xx
 
 
-YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop.ykok
+YK-OK>lue-komennot-tiedostosta c:/temp/fiboloop2.ykok
 
 
 YK-OK>suorita
